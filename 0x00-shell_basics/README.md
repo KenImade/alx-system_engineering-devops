@@ -12,4 +12,7 @@ mv file1 dir1 - moves file from directory to subdirectory dir1
 rm - removes file
 rm -r dir - deletes directory
 cd - -changes working directory to the previous one
-ls -al . .. /boot - lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format  
+ls -al . .. /boot - lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+
+file /tmp/iamafile - prints the type of file named iamafile
+ln -a /bin/ls ls - creates a symbolic link to /bin/ls, named __ls__  
