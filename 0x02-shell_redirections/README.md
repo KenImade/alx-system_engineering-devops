@@ -1,7 +1,7 @@
 # Shell, I/O Redirection
 This project is part of the Alx Full Stack Software Engineering program. The objectives of this project were the following: 
 
-- What do the commands `head`, `tail`, `find`, 	wc`, `sort`, `uniq`, `grep`, `tr` do
+- What do the commands `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grp`, `tr` do
 - How to redirect standard output to a file
 - How to get standard input from a file instead of the keyboard
 - How to send the output from one program to the input of another program
