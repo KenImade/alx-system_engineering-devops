@@ -20,3 +20,4 @@ The objectives of this project are the following:
 | 2   | 2-path | Adds `/action` to the `PATH` |
 | 3   | 3-paths | Counts the number of directories in the `PATH` |
 | 4   | 4-global_variables | Lists environment variables |
+| 5   | 5-local_variables | Lists all local variables, environment variables, and functions |
