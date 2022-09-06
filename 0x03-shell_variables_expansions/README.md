@@ -11,9 +11,12 @@ The objectives of this project are the following:
 - How to perform arithmetic operations with the shell
 - How to create an alias
 
+**All files are executable scripts**
+
 | S/N | File | Description |
 | --- | ---- | ----------- |
 | 0   | 0-alias | Creates an alias |
 | 1   | 1-hello_you | Prints `hello user`, where user is the current Linux user |
 | 2   | 2-path | Adds `/action` to the `PATH` |
 | 3   | 3-paths | Counts the number of directories in the `PATH` |
+| 4   | 4-global_variables | Lists environment variables |
