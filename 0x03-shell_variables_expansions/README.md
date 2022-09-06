@@ -32,3 +32,4 @@ The objectives of this project are the following:
 | 15  | 100-decimal_to_hexadecimal | Converts a number from base 10 to base 16 |
 | 16  | 101-rot13 | Encodes and decodes text using the rot13 encryption. Assume ASCII |
 | 17  | 102-odd | Prints every other line from the input, starting with the first line |
+| 18  | 103-water_and_stir | adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result. |
