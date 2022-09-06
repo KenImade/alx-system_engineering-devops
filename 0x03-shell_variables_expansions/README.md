@@ -15,3 +15,4 @@ The objectives of this project are the following:
 | --- | ---- | ----------- |
 | 0   | 0-alias | Creates an alias |
 | 1   | 1-hello_you | Prints `hello user`, where user is the current Linus user |
+| 2   | 2-path | Adds `/action` to the `PATH` |
