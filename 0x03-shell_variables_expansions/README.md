@@ -23,4 +23,5 @@ The objectives of this project are the following:
 | 5   | 5-local_variables | Lists all local variables, environment variables, and functions |
 | 6   | 6-create_local_variable | Creates a new local variable. Name: `BEST`, Value: `School`|
 | 7   | 7-create_global_variable | Creates a script that creates a new global variable. Name: `BEST`, Value: `School` |
-| 8   | 8-true_knowledge | Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line. |
+| 8   | 8-true_knowledge | Prints the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line. |
+| 9   | 9-divide_and_rule | Prints the result of environment variables POWER divided by DIVIDE, followed by a new line. |
