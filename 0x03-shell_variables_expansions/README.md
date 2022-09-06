@@ -13,4 +13,5 @@ The objectives of this project are the following:
 
 | S/N | File | Description |
 | --- | ---- | ----------- |
-| 0   | 0-alias | Creates and alias |
+| 0   | 0-alias | Creates an alias |
+| 1   | 1-hello_you | Prints `hello user`, where user is the current Linus user |
