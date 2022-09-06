@@ -22,3 +22,4 @@ The objectives of this project are the following:
 | 4   | 4-global_variables | Lists environment variables |
 | 5   | 5-local_variables | Lists all local variables, environment variables, and functions |
 | 6   | 6-create_local_variable | Creates a new local variable. Name: `BEST`, Value: `School`|
+| 7   | 7-create_global_variable | Creates a script that creates a new global variable. Name: `BEST`, Value: `School` |
