@@ -9,4 +9,8 @@ The objectives of this project are the following:
 - What is expansion and how to use them
 - How to do command substitution with `$()` and backticks
 - How to perform arithmetic operations with the shell
-` How to create an alias
+- How to create an alias
+
+| S/N | File | Description |
+| --- | ---- | ----------- |
+| 0   | 0-alias | Creates and alias |
